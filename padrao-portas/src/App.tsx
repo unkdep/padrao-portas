@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from "react";
 import { motion } from "framer-motion";
-import "./CarrosselVitrine.css";
+import "./components/CarrosselVitrine.css";
 
 interface Produto {
   nome: string;
